@@ -5,3 +5,5 @@ scipy
 Pillow
 st-audiorec
 soundfile
+flask
+gunicorn
